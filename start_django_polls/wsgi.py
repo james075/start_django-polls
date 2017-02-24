@@ -1,5 +1,5 @@
 """
-WSGI config for start_django-polls project.
+WSGI config for start_django_polls project.
 
 It exposes the WSGI callable as a module-level variable named ``application``.
 
@@ -11,6 +11,6 @@ import os
 
 from django.core.wsgi import get_wsgi_application
 
-os.environ.setdefault("DJANGO_SETTINGS_MODULE", "start_django-polls.settings")
+os.environ.setdefault("DJANGO_SETTINGS_MODULE", "start_django_polls.settings")
 
 application = get_wsgi_application()

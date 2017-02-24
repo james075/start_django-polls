@@ -1,4 +1,4 @@
-"""start_django-polls URL Configuration
+"""start_django_polls URL Configuration
 
 The `urlpatterns` list routes URLs to views. For more information please see:
     https://docs.djangoproject.com/en/1.10/topics/http/urls/
